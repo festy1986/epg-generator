@@ -6,7 +6,7 @@
     "build": "node fetch_epg.js"
   },
   "dependencies": {
-    "xmlbuilder2": "^4.0.0",
+    "xmlbuilder2": "^3.1.1",
     "luxon": "^3.4.0"
   }
 }
