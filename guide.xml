@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="github-epg-sample">
+  <channel id="WMTW.us">
+    <display-name>ABC (WMTW)</display-name>
+    <icon src="https://example.com/logos/wmtw.png"/>
+  </channel>
+  <channel id="WFXT.us">
+    <display-name>FOX (WFXT)</display-name>
+    <icon src="https://example.com/logos/wfxt.png"/>
+  </channel>
+  <channel id="WBZ.us">
+    <display-name>CBS (WBZ)</display-name>
+    <icon src="https://example.com/logos/wbz.png"/>
+  </channel>
+  <programme start="20250919080000 +0000" stop="20250919100000 +0000" channel="WMTW.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250919120000 +0000" stop="20250919140000 +0000" channel="WMTW.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250919200000 +0000" stop="20250919220000 +0000" channel="WMTW.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250920080000 +0000" stop="20250920100000 +0000" channel="WMTW.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250920120000 +0000" stop="20250920140000 +0000" channel="WMTW.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250920200000 +0000" stop="20250920220000 +0000" channel="WMTW.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250921080000 +0000" stop="20250921100000 +0000" channel="WMTW.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250921120000 +0000" stop="20250921140000 +0000" channel="WMTW.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250921200000 +0000" stop="20250921220000 +0000" channel="WMTW.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250922080000 +0000" stop="20250922100000 +0000" channel="WMTW.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250922120000 +0000" stop="20250922140000 +0000" channel="WMTW.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250922200000 +0000" stop="20250922220000 +0000" channel="WMTW.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250923080000 +0000" stop="20250923100000 +0000" channel="WMTW.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250923120000 +0000" stop="20250923140000 +0000" channel="WMTW.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250923200000 +0000" stop="20250923220000 +0000" channel="WMTW.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250924080000 +0000" stop="20250924100000 +0000" channel="WMTW.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250924120000 +0000" stop="20250924140000 +0000" channel="WMTW.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250924200000 +0000" stop="20250924220000 +0000" channel="WMTW.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250925080000 +0000" stop="20250925100000 +0000" channel="WMTW.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250925120000 +0000" stop="20250925140000 +0000" channel="WMTW.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250925200000 +0000" stop="20250925220000 +0000" channel="WMTW.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250919080000 +0000" stop="20250919100000 +0000" channel="WFXT.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250919120000 +0000" stop="20250919140000 +0000" channel="WFXT.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250919200000 +0000" stop="20250919220000 +0000" channel="WFXT.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250920080000 +0000" stop="20250920100000 +0000" channel="WFXT.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250920120000 +0000" stop="20250920140000 +0000" channel="WFXT.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250920200000 +0000" stop="20250920220000 +0000" channel="WFXT.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250921080000 +0000" stop="20250921100000 +0000" channel="WFXT.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250921120000 +0000" stop="20250921140000 +0000" channel="WFXT.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250921200000 +0000" stop="20250921220000 +0000" channel="WFXT.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250922080000 +0000" stop="20250922100000 +0000" channel="WFXT.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250922120000 +0000" stop="20250922140000 +0000" channel="WFXT.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250922200000 +0000" stop="20250922220000 +0000" channel="WFXT.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250923080000 +0000" stop="20250923100000 +0000" channel="WFXT.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250923120000 +0000" stop="20250923140000 +0000" channel="WFXT.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250923200000 +0000" stop="20250923220000 +0000" channel="WFXT.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250924080000 +0000" stop="20250924100000 +0000" channel="WFXT.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250924120000 +0000" stop="20250924140000 +0000" channel="WFXT.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250924200000 +0000" stop="20250924220000 +0000" channel="WFXT.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250925080000 +0000" stop="20250925100000 +0000" channel="WFXT.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250925120000 +0000" stop="20250925140000 +0000" channel="WFXT.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250925200000 +0000" stop="20250925220000 +0000" channel="WFXT.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250919080000 +0000" stop="20250919100000 +0000" channel="WBZ.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250919120000 +0000" stop="20250919140000 +0000" channel="WBZ.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250919200000 +0000" stop="20250919220000 +0000" channel="WBZ.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250920080000 +0000" stop="20250920100000 +0000" channel="WBZ.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250920120000 +0000" stop="20250920140000 +0000" channel="WBZ.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250920200000 +0000" stop="20250920220000 +0000" channel="WBZ.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250921080000 +0000" stop="20250921100000 +0000" channel="WBZ.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250921120000 +0000" stop="20250921140000 +0000" channel="WBZ.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250921200000 +0000" stop="20250921220000 +0000" channel="WBZ.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250922080000 +0000" stop="20250922100000 +0000" channel="WBZ.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250922120000 +0000" stop="20250922140000 +0000" channel="WBZ.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250922200000 +0000" stop="20250922220000 +0000" channel="WBZ.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250923080000 +0000" stop="20250923100000 +0000" channel="WBZ.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250923120000 +0000" stop="20250923140000 +0000" channel="WBZ.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250923200000 +0000" stop="20250923220000 +0000" channel="WBZ.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250924080000 +0000" stop="20250924100000 +0000" channel="WBZ.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250924120000 +0000" stop="20250924140000 +0000" channel="WBZ.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250924200000 +0000" stop="20250924220000 +0000" channel="WBZ.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+  <programme start="20250925080000 +0000" stop="20250925100000 +0000" channel="WBZ.us">
+    <title lang="en">Morning Show</title>
+    <desc lang="en">Daily morning show.</desc>
+  </programme>
+  <programme start="20250925120000 +0000" stop="20250925140000 +0000" channel="WBZ.us">
+    <title lang="en">Midday Magazine</title>
+    <desc lang="en">Midday features and talk.</desc>
+  </programme>
+  <programme start="20250925200000 +0000" stop="20250925220000 +0000" channel="WBZ.us">
+    <title lang="en">Evening News</title>
+    <desc lang="en">Local and national news.</desc>
+  </programme>
+</tv>
