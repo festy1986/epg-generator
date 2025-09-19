@@ -1,0 +1,5 @@
+[
+  { "id": "WMTW.us", "displayName": "ABC (WMTW)", "icon": "https://example.com/logos/wmtw.png" },
+  { "id": "WFXT.us", "displayName": "FOX (WFXT)", "icon": "https://example.com/logos/wfxt.png" },
+  { "id": "WBZ.us", "displayName": "CBS (WBZ)", "icon": "https://example.com/logos/wbz.png" }
+]
